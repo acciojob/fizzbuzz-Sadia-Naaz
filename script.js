@@ -10,7 +10,7 @@ for(let i =1;i<=100;i++){
 	else if(i%5===0){
 		output+="Buzz\n";
 	}else{
-		output+=i"\n";
+		output+=i+"\n";
 	}
 }
 alert(output);
